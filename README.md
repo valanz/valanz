@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey 👋
 
+Engineering manager with 10+ years in backend engineering.
+
+Previously at Leboncoin, leading the Messaging squad.
 <!--
 **valanz/valanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
